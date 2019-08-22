@@ -11,7 +11,7 @@ queries, absolute positioning and responsive design techniques, can save them.
 2. Practice using absolute positioning
 3. Practice testing responsive design
 
-## Introduction
+## Introducion
 
 In this lab, we will be creating media queries to place our animals in the
 browser window. Media queries are CSS rules that conditionally apply styles for
